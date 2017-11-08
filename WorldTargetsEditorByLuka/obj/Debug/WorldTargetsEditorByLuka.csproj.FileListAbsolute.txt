@@ -1,0 +1,11 @@
+C:\Users\Luka\Desktop\WorldTargetsEditorByLuka\WorldTargetsEditorByLuka\bin\Debug\WorldTargetsEditorByLuka.exe.config
+C:\Users\Luka\Desktop\WorldTargetsEditorByLuka\WorldTargetsEditorByLuka\bin\Debug\WorldTargetsEditorByLuka.exe
+C:\Users\Luka\Desktop\WorldTargetsEditorByLuka\WorldTargetsEditorByLuka\bin\Debug\WorldTargetsEditorByLuka.pdb
+C:\Users\Luka\Desktop\WorldTargetsEditorByLuka\WorldTargetsEditorByLuka\obj\Debug\WorldTargetsEditorByLuka.csprojResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\WorldTargetsEditorByLuka\WorldTargetsEditorByLuka\obj\Debug\WorldTargetsEditorByLuka.Form1.resources
+C:\Users\Luka\Desktop\WorldTargetsEditorByLuka\WorldTargetsEditorByLuka\obj\Debug\WorldTargetsEditorByLuka.Properties.Resources.resources
+C:\Users\Luka\Desktop\WorldTargetsEditorByLuka\WorldTargetsEditorByLuka\obj\Debug\WorldTargetsEditorByLuka.csproj.GenerateResource.Cache
+C:\Users\Luka\Desktop\WorldTargetsEditorByLuka\WorldTargetsEditorByLuka\obj\Debug\WorldTargetsEditorByLuka.exe
+C:\Users\Luka\Desktop\WorldTargetsEditorByLuka\WorldTargetsEditorByLuka\obj\Debug\WorldTargetsEditorByLuka.pdb
+C:\Users\Luka\Desktop\WorldTargetsEditorByLuka\WorldTargetsEditorByLuka\bin\Debug\Cyotek.Windows.Forms.ImageBox.dll
+C:\Users\Luka\Desktop\WorldTargetsEditorByLuka\WorldTargetsEditorByLuka\bin\Debug\Cyotek.Windows.Forms.ImageBox.xml
